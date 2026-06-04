@@ -4,7 +4,7 @@
 LearnTrack is a console-based application built using Core Java. It is designed to allow administrators to manage students, courses, and enrollments in memory. This project demonstrates foundational Object-Oriented Programming (OOP) principles, including encapsulation, inheritance, basic polymorphism, collections (`ArrayList`), and custom exception handling.
 
 ## 2. How to Compile and Run
-This project requires JDK 17 or higher.
+This project requires JDK 17 or 21 or higher.
 
 **Running via IDE (Recommended):**
 1. Open the project in IntelliJ IDEA or Eclipse.
